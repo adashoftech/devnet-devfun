@@ -1,0 +1,5 @@
+Device,Vendor,Model,Location,Room,Mgmt Address
+rt1-nva,Cisco,4331,Northern VA,207,10.0.0.200
+rt2-nva,Cisco,4331,Northern VA,209,10.0.0.201
+rt1-sdca,Cisco,4331,"San Diego, CA",107,10.1.0.200
+rt2-sdca,Cisco,4331,"San Diego, CA",109,10.1.0.201
